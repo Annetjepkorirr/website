@@ -1,0 +1,124 @@
+*{
+    padding: 8px;
+    margin: 0px;
+    background-color: peachpuff;
+
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+.cloth{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.del{
+    padding: 8px 10px;
+    border-radius: 30%;
+}
+.h2{
+    margin-left: 20%;
+    font-size: 80px;
+}
+.classify{
+    margin-left: 20%;
+    font-size: 50px;
+}
+.search{
+    margin-left: 55%;
+    border-radius: 20px;
+    font-size: larger;
+}
+.image{
+    margin-left: 20%;
+}
+.suit{
+    margin-left: 45%;
+    margin-top: -17%;
+}
+
+.top{
+    margin-left: 20%;
+    margin-top: -5%;
+}
+.trouser{
+    margin-left: 45%;
+    margin-top: -20%;
+}
+.men{
+    width: 100px;
+}
+.men{
+    margin-left: 20%;
+}
+.lad{
+    margin-left: 20%;
+    font-size: 50px;
+}
+.made{
+    margin-left: 50%;
+    margin-top: -16%;
+}
+.robe{
+    margin-left: 75%;
+    margin-top:-18% ;
+}
+
+.kid{
+    margin-left: 20%;
+    font-size: 50px;
+}
+.girl{
+    margin-left: 85%;
+    margin-top: 20%;
+}
+.boy{
+    margin-top: -40%;
+    margin-left: 19%;
+    width: 10%;
+    /* height: 20px; */
+}
+.own{
+    margin-left: 30%;
+    font-size: 50px;
+}
+.offer{
+    margin-left: 40%;   
+}
+.strive{
+    font-size: 40px;
+}
+.custom{
+    background-color: whitesmoke;
+    width: 50%;
+    font-size: 25px;
+}
+.new{
+    font-size: 70px;
+    margin-left: 30%;
+}
+.shop{
+    margin-left: 35%;
+    font-weight: bolder;
+    border-radius: 30PX;
+    padding: 15PX;
+}
+.media{
+    margin-left: 30%;
+    font-size: larger;
+}
+.a1{
+    font-size: 30px;
+}
+.span{
+    color: brown;
+}
+
+
+
+
+
